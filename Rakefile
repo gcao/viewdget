@@ -5,9 +5,9 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "viewdget"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
-    gem.email = "gcao@vonage.com"
+    gem.summary = %Q{View-centric widget}
+    gem.description = %Q{View-centric widget}
+    gem.email = "gcao99@gmail.com"
     gem.homepage = "http://github.com/gcao/viewdget"
     gem.authors = ["Guoliang Cao"]
     gem.add_development_dependency "rspec", ">= 1.2.9"

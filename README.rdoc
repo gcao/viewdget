@@ -1,6 +1,6 @@
 = viewdget
 
-Description goes here.
+== Notes
 
 == Note on Patches/Pull Requests
  
